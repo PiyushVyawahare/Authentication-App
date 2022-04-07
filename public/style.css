@@ -1,0 +1,68 @@
+#logInButton, #registerButton{
+    width: 90%;
+	background-color: #1877f2;
+	color: white;
+    border: 0px;
+	border-radius: 2px;
+	padding: 12px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 10px 0 10px 0;
+}
+
+#logInButton:hover, #logInButton:active {
+	background-color: #166fe5;
+	color: white;
+}
+
+.registerBtn, .loginBtn{
+	background-color: #42b72a;
+	padding: 10px 10px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.registerBtn:hover{
+	background-color: #3ba626;
+	padding: 10px 10px;
+}
+
+body{
+	text-align: center;
+}
+.mainDiv{
+	width: 30%;
+    padding: 20px;
+    margin: auto;
+    border: 1px solid #9B72AA;
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
+    margin-top: 8%;
+}
+
+input{
+	width: 90%;
+	padding: 12px 10px;
+	box-sizing: border-box;
+	margin: 10px 0 10px 0;
+}
+
+/* input[type=tel] {
+	width: 90%;
+	padding: 12px 10px;
+	box-sizing: border-box;
+}
+
+input[type=password] {
+	width: 90%;
+	padding: 12px 10px;
+	box-sizing: border-box;
+}
+
+input[type=search] {
+	width: 80%;
+	padding: 12px 10px;
+	margin: 8px 12px 8px 12px;
+	box-sizing: border-box;
+} */
